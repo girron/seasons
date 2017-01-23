@@ -1,10 +1,3 @@
-//
-//  TitlePage.swift
-//  Seasons
-//
-//  Created by Jake Bush on 1/20/17.
-//  Copyright © 2017 Ray Wenderlich. All rights reserved.
-//
 
 import SpriteKit
 
